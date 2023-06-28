@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Lora&family=UnifrakturMaguntia&display=swap');
+
+.pg-info {
+    background: whitesmoke;
+    color: black;
+    font-family: Lora, 'Times New Roman', Times, serif;
+    box-shadow: 1px 1px 5px;
+    -moz-outline-radius: 10px;
+    max-width: 30em;
+    margin: 8em auto;
+    padding: 1em 2em;
+}
+
+.pg-info h2 {
+    margin-bottom: 0.5em;
+    font-family: UnifrakturMaguntia, cursive;
+}
+
+.pg-info p {
+    font-family: Lora, serif;
+}
